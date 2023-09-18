@@ -1,7 +1,7 @@
 # Pinterest app clone
 #### Proyecto Final FullStack - NUCBA
 
-Este proyecto es el resultado de un esfuerzo conjunto como parte de un proyecto integrador de nuestra academia. Nuestro objetivo principal es aplicar y demostrar las habilidades y conocimientos que hemos adquirido a lo largo de nuestro programa de formación. Estoy emocionado de compartir esta aplicación con la comunidad y espero que encuentres inspiración y utilidad en ella.
+Este proyecto es el resultado de un esfuerzo conjunto como parte de un proyecto integrador. Mi objetivo principal es aplicar y demostrar las habilidades y conocimientos que he adquirido a lo largo de mi programa de formación. Estoy emocionado de compartir esta aplicación con la comunidad y espero que encuentres inspiración y utilidad en ella.
 
 PinterestAppClone es una aplicación inspirada en Pinterest que ofrece funcionalidades básicas similares a la plataforma original. Esta aplicación te permite explorar y guardar tus imágenes favoritas en tableros personalizados.
 
