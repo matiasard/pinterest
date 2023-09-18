@@ -1,0 +1,6 @@
+[submodule "pinterest-clone-frontend"]
+	path = pinterest-clone-frontend
+	url = https://github.com/matiasard/pinterest-clone-frontend.git
+[submodule "pinterest-clone-backend"]
+	path = pinterest-clone-backend
+	url = https://github.com/matiasard/pinterest-clone-backend.git
