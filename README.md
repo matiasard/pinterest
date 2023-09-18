@@ -8,7 +8,7 @@ PinterestAppClone es una aplicación inspirada en Pinterest que ofrece funcional
 ## 📌 Demo del proyecto
 #### 🔗 Link:
 
-👉 Cliente: https://pinterest-clone-frontend-git-main-matiasard.vercel.app/home
+👉 FrontEnd: https://pinterest-clone-frontend-git-main-matiasard.vercel.app
 
 #### 🧑 Cuenta de prueba:
 
